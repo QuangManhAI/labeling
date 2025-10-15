@@ -1,0 +1,32 @@
+# Node.js
+node_modules
+dist
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+lib/
+
+# Logs
+*.log
+
+# Local env
+.env
+.env.local
+
+# Uploads
+uploads/
+
+git-filter-repo
+
+
+*.pth
+optim
+torch
+
+test/
+os
+datasets/
